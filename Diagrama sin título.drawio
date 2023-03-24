@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T16:18:13.334Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="fOSg7aOn8jidar_OAkTm" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T16:22:51.131Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hgAh25xfK35RGVk8vcWP" version="21.1.1" type="github">
   <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
-    <mxGraphModel dx="806" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="806" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#33FFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,67 +11,70 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="1ea317790d2ca983-1" value="Generalidades y conceptos basicos" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="425" y="60" width="120" height="80" as="geometry" />
+          <mxGeometry x="425" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IicCMcBqhEk1zXU2Q34w-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1ea317790d2ca983-9" target="IicCMcBqhEk1zXU2Q34w-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1ea317790d2ca983-9" value="Los componentes básicos del lenguaje de programación C++ incluyen" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="1ea317790d2ca983-9" value="Los componentes básicos del lenguaje de programación C++ incluyen" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="20" y="180" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="IicCMcBqhEk1zXU2Q34w-1" value="C++ es un lenguaje de programación de alto nivel, diseñado para ser utilizado en el desarrollo de software de sistema y de aplicaciones. C++ es una extensión del lenguaje de programación C, que agrega características como la programación orientada a objetos, el manejo de excepciones y el uso de plantillas." style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="305" y="230" width="360" height="320" as="geometry" />
+        <mxCell id="IicCMcBqhEk1zXU2Q34w-1" value="C++ es un lenguaje de programación de alto nivel, diseñado para ser utilizado en el desarrollo de software de sistema y de aplicaciones. C++ es una extensión del lenguaje de programación C, que agrega características como la programación orientada a objetos, el manejo de excepciones y el uso de plantillas." style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="305" y="150" width="360" height="320" as="geometry" />
         </mxCell>
         <mxCell id="IicCMcBqhEk1zXU2Q34w-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IicCMcBqhEk1zXU2Q34w-5" target="IicCMcBqhEk1zXU2Q34w-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IicCMcBqhEk1zXU2Q34w-5" value="Tipos de datos: C++ ofrece varios tipos de datos, como enteros, flotantes, caracteres, punteros y estructuras" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+        <mxCell id="IicCMcBqhEk1zXU2Q34w-5" value="Tipos de datos: C++ ofrece varios tipos de datos, como enteros, flotantes, caracteres, punteros y estructuras" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="20" y="370" width="200" height="110" as="geometry" />
         </mxCell>
         <mxCell id="IicCMcBqhEk1zXU2Q34w-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IicCMcBqhEk1zXU2Q34w-7" target="IicCMcBqhEk1zXU2Q34w-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IicCMcBqhEk1zXU2Q34w-7" value="Variables: las variables son espacios en memoria reservados para almacenar datos. En c++, las variables deben ser declaradas antes de su uso y pueden ser inicial izadas en el momento de la declaración" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="560" width="280" height="170" as="geometry" />
+        <mxCell id="IicCMcBqhEk1zXU2Q34w-7" value="Variables: las variables son espacios en memoria reservados para almacenar datos. En c++, las variables deben ser declaradas antes de su uso y pueden ser inicial izadas en el momento de la declaración" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="540" width="280" height="170" as="geometry" />
         </mxCell>
         <mxCell id="IicCMcBqhEk1zXU2Q34w-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IicCMcBqhEk1zXU2Q34w-9" target="IicCMcBqhEk1zXU2Q34w-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IicCMcBqhEk1zXU2Q34w-9" value="Operadores: C++ ofrece una variedad de operadores, como aritméticos, de asignación, relacionales y lógicos, para realizar operaciones en variables y valores." style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="810" width="280" height="170" as="geometry" />
+        <mxCell id="IicCMcBqhEk1zXU2Q34w-9" value="Operadores: C++ ofrece una variedad de operadores, como aritméticos, de asignación, relacionales y lógicos, para realizar operaciones en variables y valores." style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="750" width="280" height="170" as="geometry" />
         </mxCell>
         <mxCell id="IicCMcBqhEk1zXU2Q34w-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IicCMcBqhEk1zXU2Q34w-11" target="IicCMcBqhEk1zXU2Q34w-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IicCMcBqhEk1zXU2Q34w-11" value="Funciones: Las funciones son bloques de código que se pueden llamar desde otras partes del programa. En C++, las funciones pueden tener argumentos y devolver valores." style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1060" width="280" height="170" as="geometry" />
+        <mxCell id="IicCMcBqhEk1zXU2Q34w-11" value="Funciones: Las funciones son bloques de código que se pueden llamar desde otras partes del programa. En C++, las funciones pueden tener argumentos y devolver valores." style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="970" width="280" height="170" as="geometry" />
         </mxCell>
         <mxCell id="IicCMcBqhEk1zXU2Q34w-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IicCMcBqhEk1zXU2Q34w-13" target="IicCMcBqhEk1zXU2Q34w-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IicCMcBqhEk1zXU2Q34w-13" value="Clases y objetos: la programación orientada a objetos es una característica clave de C++. Las clases son plantillas para crear objetos, que son instancias de una clase. Los objetos tienen propiedades y métodos que se definen en la clase." style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1310" width="370" height="200" as="geometry" />
+        <mxCell id="IicCMcBqhEk1zXU2Q34w-13" value="Clases y objetos: la programación orientada a objetos es una característica clave de C++. Las clases son plantillas para crear objetos, que son instancias de una clase. Los objetos tienen propiedades y métodos que se definen en la clase." style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1210" width="370" height="200" as="geometry" />
         </mxCell>
         <mxCell id="IicCMcBqhEk1zXU2Q34w-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IicCMcBqhEk1zXU2Q34w-15" target="IicCMcBqhEk1zXU2Q34w-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IicCMcBqhEk1zXU2Q34w-15" value="Herencia: la herencia es una característica de la programación orientada a objetos en la que una clase puede heredad propiedades y métodos de otra clase" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1570" width="320" height="190" as="geometry" />
+        <mxCell id="IicCMcBqhEk1zXU2Q34w-15" value="Herencia: la herencia es una característica de la programación orientada a objetos en la que una clase puede heredad propiedades y métodos de otra clase" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="425" y="770" width="320" height="190" as="geometry" />
         </mxCell>
         <mxCell id="IicCMcBqhEk1zXU2Q34w-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IicCMcBqhEk1zXU2Q34w-17" target="IicCMcBqhEk1zXU2Q34w-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IicCMcBqhEk1zXU2Q34w-17" value="Polimorfismo: El polimorfismo es una característica de la programación orientada a objetos en la que se pueden definir métodos con el mismo nombre en diferentes clases" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="710" y="1570" width="360" height="200" as="geometry" />
+        <mxCell id="IicCMcBqhEk1zXU2Q34w-17" value="Polimorfismo: El polimorfismo es una característica de la programación orientada a objetos en la que se pueden definir métodos con el mismo nombre en diferentes clases" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="710" y="1000" width="360" height="200" as="geometry" />
         </mxCell>
         <mxCell id="IicCMcBqhEk1zXU2Q34w-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IicCMcBqhEk1zXU2Q34w-19" target="IicCMcBqhEk1zXU2Q34w-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IicCMcBqhEk1zXU2Q34w-19" value="Plantillas: Las plantillas son una característica de C++ que permiten escribir código genérico que puede ser utilizado con diferentes tipos de datos" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="710" y="1300" width="310" height="170" as="geometry" />
+        <mxCell id="IicCMcBqhEk1zXU2Q34w-19" value="Plantillas: Las plantillas son una característica de C++ que permiten escribir código genérico que puede ser utilizado con diferentes tipos de datos" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="765" y="320" width="310" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="IicCMcBqhEk1zXU2Q34w-21" value="Excepciones: C++ ofrece manejo de excepciones, que permite a los programas manejar errores y excepciones y de manera controlada." style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
-          <mxGeometry x="710" y="1030" width="280" height="160" as="geometry" />
+        <mxCell id="IicCMcBqhEk1zXU2Q34w-21" value="Excepciones: C++ ofrece manejo de excepciones, que permite a los programas manejar errores y excepciones y de manera controlada." style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="780" y="30" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="IicCMcBqhEk1zXU2Q34w-23" value="Hecho por Jose Luciano Mejia Arias" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="1330" width="260" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
