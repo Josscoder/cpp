@@ -1,0 +1,3 @@
+/home/josscoder/Documentos/Escuela/cpp-1/cmake-build-debug/CMakeFiles/cpp_1.dir
+/home/josscoder/Documentos/Escuela/cpp-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/josscoder/Documentos/Escuela/cpp-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
